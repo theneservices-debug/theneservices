@@ -13,7 +13,7 @@
   <!-- TOP BAR -->
   <div class="topbar">
     <span>📍 82 Long Street, Matatiele 4730 | 245 Hlahane, Katlehong 1431</span>
-    <span>📞 +27 73 720 3944 | WhatsApp:+27 73 903 5729 info@theneservies.com</span>
+    <span>📞 +27 73 903 5729 | WhatsApp:+27 73 720 3944 info@theneservies.com</span>
   </div>
 
   <!-- HEADER -->
@@ -73,7 +73,7 @@
     <div class="cards">
       <div class="card">
         <img src="images/manager.jpg" alt="Manager">
-        <h3>Manager - Ntate Thene</h3>
+        <h3> Founder or Director - Mr Emmanuel R Thene</h3>
         <p>Navy / Gold THENE TSC Uniform</p>
       </div>
       <div class="card">
